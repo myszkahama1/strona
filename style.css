@@ -1,0 +1,41 @@
+#nawigacja {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	background-color: #050505;
+	height: 50px;
+}
+
+#nav_tekst_div {
+	color: white;
+	text-align: left;
+	display:         flex;
+  	flex-wrap:       wrap;
+  	justify-content: center;
+}
+
+#nav_l_logo {
+	float: left;
+}
+
+#nav_r_logo {
+	float: right;
+}
+
+.nav_tekst {
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+	margin-top: 15px;
+	transition: 1s;
+}
+
+.nav_tekst:hover {
+	font-size: 110%;
+	color: gold;
+}
+
+body {
+	background-color: #1d1f1e;
+}

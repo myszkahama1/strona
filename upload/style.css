@@ -1,0 +1,19 @@
+#hello{
+    color: white;
+    text-align: center;
+}
+
+#tam{
+    text-align: center;
+}
+
+#tutaj{
+    font-size: 30px;
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body{
+    background-color: #1d1f1e;
+}
